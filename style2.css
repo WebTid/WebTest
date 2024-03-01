@@ -1,0 +1,8 @@
+body {
+    width: 1340px;
+    border: 2px groove white;
+    background-color: #2f2e2e;
+    align-items: center;
+    text-align: center;
+    color: red;
+}
